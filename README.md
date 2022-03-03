@@ -1,5 +1,5 @@
 # beginner-challenges
- My first programming challenges
+ * My first programming challenges
 
  - [x] JavaScript
  - [x] HTML5
