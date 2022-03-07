@@ -3,7 +3,7 @@ function timeDay() {
     let image = document.getElementById('image')
     let dt = new Date()
     let hr = dt.getHours()
-    res.innerHTML = `• Now, it´s close to ${hr}h o'clock.<br>`
+    res.innerHTML = `• Now, it´s close to ${hr} o'clock.<br>`
     if (hr >= 0 && hr < 12) { // for morning
         image.src = '2.png'
         res.innerHTML += `<br><strong>Good Morning!</strong>`
