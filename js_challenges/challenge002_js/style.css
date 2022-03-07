@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(101, 122, 115);
+    font: normal 12pt arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section#general {
+    background-color: azure;
+    padding: 10pt;
+    padding-left: 20pt;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 7px;
+}
+
+section#results {
+    background-color: rgb(200, 215, 230);
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50pt;
+    margin: auto;
+}
